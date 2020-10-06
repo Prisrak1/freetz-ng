@@ -1,13 +1,11 @@
 @import url(../common.css);
 
 div {
-	# cursor: url(/images/prisrak/mauszeiger_turqoise.cur), auto;
-	cursor: url(http://www.rw-designer.com/cursor-extern.php?id=25024), auto;
+	cursor: url(/images/prisrak/mauszeiger_turqoise.cur), auto;
 	}
 	  
 a:hover {
-	# cursor: url(/images/prisrak/mauszeiger_gelb.cur), default;
-	cursor: url(http://www.rw-designer.com/cursor-extern.php?id=25027), default;
+	cursor: url(/images/prisrak/mauszeiger_gelb.cur), default;
 	}
 
 a {
